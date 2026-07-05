@@ -7,3 +7,6 @@ Download the dataset from Kaggle:
 
 After downloading, place the CSV file in the same folder as the notebook and run:
     df = pd.read_csv("GSE68086_TEP_data_matrix.csv")
+    
+## Author
+Reyad Aly
